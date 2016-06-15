@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# jenny\nTest repo for test tutorial\n\nI am making my first change from GitHub\n\nI am making my second change",
+    "created" : 1466023738995.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2409836811",
+    "id" : "85B1D2EC",
+    "lastKnownWriteTime" : 1466023753,
+    "last_content_update" : 1466023753850,
+    "path" : "~/Desktop/jenny/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "chunk_rendered_width" : "611"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
